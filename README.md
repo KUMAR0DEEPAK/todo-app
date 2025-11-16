@@ -81,5 +81,8 @@ Server runs at:
 
 ScreenShot
 
-<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/5d142d4f-bdda-464a-b47e-c88eb06b53c6" />
+
+<img width="1690" height="928" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/157b2909-6a8d-4552-9968-f4be9ac7211f" />
+
+
 
